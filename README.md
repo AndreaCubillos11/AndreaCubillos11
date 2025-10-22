@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src= "https://github.com/AndreaCubillos11/AndreaCubillos11/blob/main/laptop.gif" width="300">
+  
+</div>
+
 # Andrea Valentina Cubillos Pinto
 
 **Systems Engineer in training** with an emphasis on **software development**, **agile methodologies (Scrum)**, and **applied cybersecurity**. Passionate about technology, research, and creating digital solutions that generate impact and value.
