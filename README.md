@@ -21,7 +21,7 @@ I am interested in integrating technology with education, science, and cybersecu
 
 | Area                       | Competencies |
 |----------------------------|--------------|
-| **Software Development**    | Programming in **Python, JavaScript, HTML, CSS**; experience with **Angular, Node.js, React Native, and Unity** |
+| **Software Development**    | Programming in **Python, JavaScript, C#, HTML, CSS**; experience with **Angular, Node.js, React Native, and Unity** |
 | **Agile Methodologies**     | Application of **Scrum**, task management with **Jira**, version control with **Git** |
 | **Architecture & Security** | Fundamentals of **TOGAF** and **cybersecurity** |
 | **Analysis & Documentation**| Process modeling, defining **use cases**, creating technical documentation in **LaTeX** |
