@@ -6,7 +6,7 @@
 
 # Andrea Valentina Cubillos Pinto
 
-**Systems Engineer in training** with an emphasis on **software development**, **agile methodologies (Scrum)**, and **applied cybersecurity**. Passionate about technology, research, and creating digital solutions that generate impact and value.
+**Systems Engineer** with an emphasis on **software development**, **agile methodologies (Scrum)**, and **applied cybersecurity**. Passionate about technology, research, and creating digital solutions that generate impact and value.
 
 ---
 
